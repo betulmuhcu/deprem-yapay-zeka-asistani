@@ -94,3 +94,7 @@ streamlit run app.py
 ## 👩‍💻 Geliştirici
 
 **Betül Muhcu**  
+<img width="1012" height="810" alt="image" src="https://github.com/user-attachments/assets/86f8d9f6-e483-467b-a11a-aa6bddfaa76d" />
+<img width="928" height="751" alt="image" src="https://github.com/user-attachments/assets/70e06b93-62a7-446c-b889-9edd5afb9555" />
+
+
